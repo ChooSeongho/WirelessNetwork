@@ -9,3 +9,7 @@ then, server is starting.
 When Client start, input server's ip and port number. and press the 'submit' button.
 if you press the 'submit' button, appear the TextArea. when press mouse right button in TextArea, appear the popup menu '파일 전송'.
 press that, you can select the file want transmit.
+
+The client sends the file 50 bytes at a time. so, please select a file at small size.
+
+transmited file is saved in 'C://Network/' 
