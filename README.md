@@ -14,3 +14,10 @@ The client sends the file 50 bytes at a time. so, please select a file at small 
 if you select big size, transmit time is so long.
 
 transmited file is saved in 'C://Network/' 
+
+
+team members
+2008160179 홍세기
+2012161004 고주현
+2012161079 박태경
+2012161165 추성호
