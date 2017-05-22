@@ -11,5 +11,6 @@ if you press the 'submit' button, appear the TextArea. when press mouse right bu
 press that, you can select the file want transmit.
 
 The client sends the file 50 bytes at a time. so, please select a file at small size.
+if you select big size, transmit time is so long.
 
 transmited file is saved in 'C://Network/' 
