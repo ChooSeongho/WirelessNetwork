@@ -16,6 +16,7 @@ if you select big size, transmit time is so long.
 transmited file is saved in 'C://Network/' 
 
 
+
 team members
 
 2008160179 홍세기
